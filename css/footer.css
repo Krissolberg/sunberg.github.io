@@ -132,3 +132,11 @@ button {
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
 }
+
+textarea {
+    color: black;
+}
+
+input {
+    color: black;
+}
